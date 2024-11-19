@@ -1,0 +1,66 @@
+*{
+    font-style:italic;
+}
+.c1{
+    color: aqua;
+    background-color: green;
+}
+.c2{
+    color: blue;
+    background-color: yellow;
+}
+.c3{
+    color: white;
+    background-color: blue;
+}
+.c4{
+    color: aqua;
+    background-color: black;
+}
+#i1{
+    color: white;
+    background-color: brown;
+}
+#i2{
+    color: blueviolet;
+    background-color:white;
+}
+#i3{
+    color: blueviolet;
+    background-color: purple;
+}
+#i4{
+    color: aliceblue;
+    background-color: red;
+}
+.c11,#i11,.c22,#i22{
+    color:rebeccapurple
+}
+.c11{
+    background-color: orange;
+}
+#i11{
+    background-color: gray;
+}
+.c22{
+    background-color: skyblue;
+}
+#i22{
+    background-color: blueviolet;
+}
+.h1{
+    color: yellow;
+    background-color: aqua;
+}
+.h2{
+    color: green;
+    background-color: wheat;
+}
+.h3{
+    color: brown;
+    background-color: chocolate;
+}
+.h4{
+    color: azure;
+    background-color: darkblue;
+}
